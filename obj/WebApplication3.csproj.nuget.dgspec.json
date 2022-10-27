@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trajzer\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj": {}
+    "C:\\Users\\trajzer\\Documents\\LAB_PO\\WebApplication3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trajzer\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj": {
+    "C:\\Users\\trajzer\\Documents\\LAB_PO\\WebApplication3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trajzer\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+        "projectUniqueName": "C:\\Users\\trajzer\\Documents\\LAB_PO\\WebApplication3.csproj",
         "projectName": "WebApplication3",
-        "projectPath": "C:\\Users\\trajzer\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+        "projectPath": "C:\\Users\\trajzer\\Documents\\LAB_PO\\WebApplication3.csproj",
         "packagesPath": "C:\\Users\\trajzer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trajzer\\source\\repos\\WebApplication3\\WebApplication3\\obj\\",
+        "outputPath": "C:\\Users\\trajzer\\Documents\\LAB_PO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trajzer\\AppData\\Roaming\\NuGet\\NuGet.Config",

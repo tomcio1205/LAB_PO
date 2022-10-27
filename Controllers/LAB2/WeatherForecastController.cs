@@ -1,7 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using WebApplication3.Services;
+using WebApplication3.Services.LAB2;
 
-namespace WebApplication3.Controllers
+namespace WebApplication3.Controllers.LAB2
 {
     [ApiController]
     [Route("[controller]/[action]")]
@@ -36,7 +37,7 @@ namespace WebApplication3.Controllers
         [HttpGet]
         public List<int> GetValue()
         {
-            
+
             var calculateInstance = new Calculate(23);
             var calculateInstance2 = new Calculate(45);
 

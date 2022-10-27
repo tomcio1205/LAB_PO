@@ -1,4 +1,4 @@
-﻿namespace WebApplication3.Services
+﻿namespace WebApplication3.Services.LAB2
 {
     public class Calculate
     {
@@ -11,12 +11,12 @@
 
         public void Increase(int value)
         {
-            this.Value += value;
+            Value += value;
         }
 
         public void Decrease(int value)
         {
-            this.Value -= value;
+            Value -= value;
         }
 
         public int GetValue()
