@@ -10,8 +10,8 @@ namespace WebApplication3.Controllers.LAB4
         [HttpGet]
         public string GetLang()
         {
-            var lang = new Polish();
-            return lang.getLang();
+            var lang = new Polish("pl");
+            return lang.GetLanguageName();
         }
     }
 }

@@ -2,5 +2,9 @@
 {
     public interface ILanguage
     {
+        string Name { get; set; }
+
+        string GetLanguageName();
+
     }
 }
