@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5ItHABt/0/gCAtA4gRxUKsA2TzN7s+9fS99AySyl1zCt94hxMvWFYuzju6+TfowCZmxrSJk9j14zs5vKVE7UFQ==",
+  "dgSpecHash": "knpM3zvi0eExXfok+o7s6uPDl0w28/6/pgcEIoa8ylsDHTHg7jjmZPjMeFnH6cPkkUn7QgWQrteJ5gn1BLUB5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trajzer\\Documents\\LAB_PO\\WebApplication3.csproj",
+  "projectFilePath": "C:\\Users\\trajzer\\Documents\\Repositories\\LAB_PO\\WebApplication3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trajzer\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\trajzer\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
